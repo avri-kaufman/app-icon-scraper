@@ -31,5 +31,5 @@ To scrape an app icon from the Google Play Store, call the getAppIcon function w
 
 ## Configuration
 
--AWS S3 Configuration: Ensure that the accessKeyId, secretAccessKey, and region are correctly set up in your AWS configuration for the S3 SDK.
--Image Dimensions: You can adjust the width and height parameters in the getAppIcon function call to get icons of different sizes.
+- AWS S3 Configuration: Ensure that the accessKeyId, secretAccessKey, and region are correctly set up in your AWS configuration for the S3 SDK.
+- Image Dimensions: You can adjust the width and height parameters in the getAppIcon function call to get icons of different sizes.
