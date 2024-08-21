@@ -9,7 +9,6 @@ This project is a Node.js script that uses Puppeteer to scrape app icons from th
 - **Scrapes App Icons:** Retrieves app icons from the Google Play Store using Puppeteer.
 - **Image Resizing:** Uses `sharp` to resize the app icons to the desired dimensions.
 - **AWS S3 Integration:** Uploads the resized icons to an Amazon S3 bucket.
-- 
 
 ## Prerequisites 
 
